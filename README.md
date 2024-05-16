@@ -1,6 +1,6 @@
 # Profile
-<h1 align="center">Assalamu Alaikum It's Zarin Tasnim</h1>
-<h3 align="center">A CSE Student <br>  Working to enhance the World of Technology</h3>
+<h1 align="center">Assalamu Alaikum, It's Zarin Tasnim</h1>
+<h3 align="center">A CSE Student <br>  Working to Enhance the World of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zarin752&label=Profile%20views&color=0e75b6&style=flat" alt="zarin752" /> </p>
 
